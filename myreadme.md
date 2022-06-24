@@ -1,0 +1,1 @@
+simple scratchpad project to learn React. To-do list app that adds an item to a list.
